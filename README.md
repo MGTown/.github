@@ -1,2 +1,0 @@
-# .github
-WHO WE ARE
